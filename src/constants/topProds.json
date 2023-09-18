@@ -1,0 +1,430 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "sku": 6009897,
+      "name": "Apple - iPhone 12 5G 64GB - Black (Verizon)",
+      "color": "Black",
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6009/6009897_sd.jpg",
+      "features": [
+        { "feature": "6.1-inch Super Retina XDR display&#178;" },
+        { "feature": "Ceramic Shield, tougher than any smartphone glass" },
+        {
+          "feature": "5G for superfast downloads and high-quality streaming&#185;"
+        },
+        {
+          "feature": "A14 Bionic chip, the fastest chip ever in a smartphone"
+        },
+        {
+          "feature": "Advanced dual-camera system with 12MP Ultra Wide and Wide cameras;  Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording"
+        },
+        {
+          "feature": "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording"
+        },
+        { "feature": "Industry-leading IP68 water resistance&#8309;" },
+        {
+          "feature": "Supports MagSafe accessories for easy attach and faster wireless charging&#8308;"
+        },
+        {
+          "feature": "iOS 14 with redesigned widgets on the Home screen, all-new App Library, App Clips, and more"
+        },
+        {
+          "feature": "&#185; Data plan required. 5G is available in select markets and through select carriers. Speeds vary based on site conditions and carrier. For details on 5G support, contact your carrier and see apple.com/iphone/cellular ."
+        },
+        {
+          "feature": "&#178; The display has rounded corners. When measured as a rectangle, the screen is 6.06 inches diagonally. Actual viewable area is less."
+        },
+        {
+          "feature": "&#179; Claim based on iPhone 12 Ceramic Shield front compared with previous-generation iPhone."
+        },
+        { "feature": "&#8308; Accessories are sold separately." },
+        {
+          "feature": "&#8309; iPhone 12 is splash, water, and dust resistant and was tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529 (maximum depth of 6 meters up to 30 minutes). Splash, water, and dust resistance are not permanent conditions."
+        },
+        {
+          "feature": "Resistance might decrease as a result of normal wear. Do not attempt to charge a wet iPhone; refer to the user guide for cleaning and drying instructions. Liquid damage not covered under warranty."
+        }
+      ],
+      "condition": "New",
+      "salePrice": 629.99,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "Cell Phones" },
+        { "name": "All Cell Phones with Plans" }
+      ],
+      "freeShipping": true,
+      "manufacturer": "Apple",
+      "regularPrice": 629.99,
+      "shippingCost": 0,
+      "dollarSavings": 0,
+      "longDescription": "iPhone 12. 5G to download movies on the fly and stream high-quality video.&#185; Beautifully bright 6.1-inch Super Retina XDR display.&#178; Ceramic Shield with 4x better drop performance.&#179; Incredible low-light photography with Night mode on all cameras. Cinema-grade Dolby Vision video recording, editing, and playback. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging.&#8308; Let the fun begin.",
+      "includedItemList": [
+        { "includedItem": "Apple iPhone 12 5G 64GB" },
+        { "includedItem": "USB-C to Lightning Cable" },
+        { "includedItem": "Documentation" }
+      ],
+      "shortDescription": null,
+      "customerReviewCount": 610,
+      "customerReviewAverage": 4.7,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    },
+    {
+      "rank": 2,
+      "sku": 4901816,
+      "name": "Apple - 10.2-Inch iPad with Wi-Fi - 256GB - Space Gray",
+      "color": "Space Gray",
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/4901/4901816_sd.jpg",
+      "features": [
+        { "feature": "Gorgeous 10.2-inch Retina display with True Tone" },
+        { "feature": "A13 Bionic chip with Neural Engine" },
+        {
+          "feature": "8MP Wide back camera, 12MP Ultra Wide front camera with Center Stage"
+        },
+        { "feature": "Up to 256GB storage" },
+        { "feature": "Stereo speakers" },
+        { "feature": "Touch ID for secure authentication and Apple Pay" },
+        { "feature": "802.11ac Wi-Fi" },
+        { "feature": "Up to 10 hours of battery life&#178;" },
+        { "feature": "Lightning connector for charging and accessories" },
+        {
+          "feature": "Works with Apple Pencil (1st generation) and Smart Keyboard&#185;"
+        },
+        {
+          "feature": "iPadOS 15 is uniquely powerful, easy to use, and designed for the versatility of iPad"
+        },
+        {
+          "feature": "Apps are available on the App Store. Title availability is subject to change"
+        },
+        {
+          "feature": "&#185; Accessories are sold separately. Compatibility varies by generation."
+        },
+        {
+          "feature": "&#178; Battery life varies by use and configuration. See http://apple.com/batteries for more information."
+        }
+      ],
+      "condition": "New",
+      "salePrice": 479.99,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "Computers & Tablets" },
+        { "name": "Tablets" },
+        { "name": "All Tablets" }
+      ],
+      "freeShipping": true,
+      "manufacturer": "Apple",
+      "regularPrice": 479.99,
+      "shippingCost": 0,
+      "dollarSavings": 0,
+      "longDescription": "Powerful. Easy to use. Versatile. The new iPad has a beautiful 10.2-inch Retina display, powerful A13 Bionic chip, an Ultra Wide front camera with Center Stage, and works with Apple Pencil and the Smart Keyboard.&#185; iPad lets you do more, more easily. All for an incredible value.",
+      "includedItemList": [
+        { "includedItem": "Apple 10.2-Inch iPad with Wi-Fi - 256GB" },
+        { "includedItem": "Lightning to USB-C cable" },
+        { "includedItem": "20W USB-C Power Adapter" }
+      ],
+      "shortDescription": null,
+      "customerReviewCount": 4611,
+      "customerReviewAverage": 4.9,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    },
+    {
+      "rank": 3,
+      "sku": 6251044,
+      "name": "Amazon - $25 Gift Card",
+      "color": null,
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6251/6251044_sd.jpg",
+      "features": [
+        {
+          "feature": "Can be redeemed towards millions of items at www.amazon.com."
+        },
+        { "feature": "Amazon.com Gift Cards never expire." },
+        {
+          "feature": "To redeem your gift card:\n1.  Visit www.amazon.com/redeem."
+        },
+        { "feature": "2.  Enter the Claim Code when prompted." },
+        {
+          "feature": "3.  Gift card funds will be applied automatically to eligible orders during the checkout process."
+        },
+        {
+          "feature": "4.  You must pay for any remaining balance on your order with another payment method."
+        },
+        {
+          "feature": "Your gift card claim code may also be entered when prompted during checkout. To redeem your gift card using the Amazon.com 1-Click&#174; service, first add the gift card funds to Your Account."
+        },
+        {
+          "feature": "If you have questions about redeeming your gift card, please visit www.amazon.com/gc-redeem."
+        },
+        {
+          "feature": "Terms and Conditions\nRestrictions apply, see amazon.com/gc-legal."
+        }
+      ],
+      "condition": "New",
+      "salePrice": 25,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "Gift Cards" },
+        { "name": "Specialty Gift Cards" },
+        { "name": "All Specialty Gift Cards" }
+      ],
+      "freeShipping": false,
+      "manufacturer": "Amazon",
+      "regularPrice": 25,
+      "shippingCost": 3.99,
+      "dollarSavings": 0,
+      "longDescription": "Amazon.com Gift Cards never expire and can be redeemed towards millions of items at www.amazon.com.",
+      "includedItemList": [],
+      "shortDescription": null,
+      "customerReviewCount": 3318,
+      "customerReviewAverage": 4.9,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    },
+    {
+      "rank": 4,
+      "sku": 1019306,
+      "name": "Apple - MagSafe 60W Power Adapter for MacBook® and 13\" MacBook® Pro - White",
+      "color": "White",
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/1019/1019306_sa.jpg",
+      "features": [
+        {
+          "feature": "60-watt power adapter\nPowers the lithium-ion battery while system is off, on or in sleep mode. Also charges without the battery present for added convenience."
+        },
+        {
+          "feature": "Magnetic DC adapter\nDisconnects the power cable if it experiences strain to prevent fraying or weakening of the connection."
+        },
+        { "feature": "LED indicator lights\nDisplay charge status." },
+        {
+          "feature": "Travel-friendly design\nDC cable neatly wraps around the adapter for easy portability."
+        },
+        {
+          "feature": "Apple, MacBook, MacBook Pro, FireWire, QuickTime, iTunes and Mac OS are trademarks of Apple Computer, Inc., registered in the U.S. and other countries. Velocity Engine, SuperDrive and iLife are trademarks of Apple Computer,Inc."
+        },
+        {
+          "feature": "Compatible with MacBook and 13\" MacBook Pro\nTo keep your laptop charged and ready to use."
+        }
+      ],
+      "condition": "New",
+      "salePrice": 79,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "Computers & Tablets" },
+        { "name": "Computer Accessories & Peripherals" },
+        { "name": "Laptop Accessories" },
+        { "name": "Laptop Chargers & Adapters" }
+      ],
+      "freeShipping": true,
+      "manufacturer": "Apple",
+      "regularPrice": 79,
+      "shippingCost": 0,
+      "dollarSavings": 0,
+      "longDescription": "Power your MacBook or MacBook Pro with this adapter that features LED indicator lights to let you know the charge status and a magnetic DC connector that disconnects under strain to protect the power cable.",
+      "includedItemList": [
+        {
+          "includedItem": "Apple MagSafe 60W Power Adapter for MacBook and 13\" MacBook Pro"
+        },
+        { "includedItem": "AC cord" },
+        { "includedItem": "Owner's manual" }
+      ],
+      "shortDescription": null,
+      "customerReviewCount": 5823,
+      "customerReviewAverage": 4.6,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    },
+    {
+      "rank": 5,
+      "sku": 6520010,
+      "name": "Google - Pixel 7 Pro 128GB - Hazel (T-Mobile)",
+      "color": "Hazel",
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6520/6520010_sd.jpg",
+      "features": [
+        {
+          "feature": "The brains behind Pixel 7 Pro.\nGoogle Tensor G2 makes Pixel 7 Pro faster, more efficient, and more secure.&#8322; And it delivers even more helpful features and the best photo and video quality yet on Pixel."
+        },
+        {
+          "feature": "Google&#8217;s pro-level triple camera system.\nThe Pixel 7 Pro triple rear camera system includes a 5x telephoto lens. The upgraded ultrawide lens with autofocus now powers Macro Focus."
+        },
+        {
+          "feature": "A brilliant display, in more ways than one.\nThe Pixel 7 Pro 6.7-inch Smooth Display makes everything stunning and immersive.&#8322; It intelligently adjusts up to 120Hz for smoother, more responsive performance.&#8323;"
+        },
+        {
+          "feature": "Translate languages in real time.\nWith Live Translate, you can interpret face-to-face conversations in 48 languages, chat in real time, and translate menus with your camera.&#8324;"
+        },
+        {
+          "feature": "Powered by Android.\nGoogle Pixel 7 Pro runs on the Android operating system."
+        },
+        {
+          "feature": "Secure to the core.\nWith Google Tensor G2 and the Titan M2 security chip, Pixel is built with multiple layers of security to help keep your personal info safe."
+        },
+        {
+          "feature": "It&#8217;s everything a battery should be.\nPixel&#8217;s Adaptive Battery can last over 24 hours. Turn on Extreme Battery Saver, and the battery can last up to 72 hours.&#8325; And your Pixel charges super fast.&#8326;"
+        },
+        {
+          "feature": "Amazing video recording.\nThe Pixel 7 Camera records video with brighter, more vibrant colors and higher contrast.&#8321; It makes landscapes more epic and moments more dramatic.&#8327;"
+        },
+        {
+          "feature": "&#8321;Coming soon. Restrictions apply. Some data is not transmitted through VPN. Not available in all countries. All other Google One membership benefits sold separately. Use of VPN may increase data costs depending on your plan. See g.co/pixel/vpn for details."
+        },
+        {
+          "feature": "&#8322;Measured diagonally; dimension may vary by configuration and manufacturing process."
+        },
+        {
+          "feature": "&#8323;Smooth Display is not available for all apps or content."
+        },
+        {
+          "feature": "&#8324;Not available in all languages or countries. Not available on all media or apps. See g.co/pixel/livetranslate for more information. Translation may not be instantaneous."
+        },
+        {
+          "feature": "&#8325;For &#8220;over 24 hours&#8221;: Estimated battery life based on testing using a median Pixel user battery usage profile across a mix of talk, data, standby, and use of other features. Average battery life during testing was approximately 31 hours. Battery testing conducted on a major carrier network."
+        },
+        {
+          "feature": "For &#8220;Up to 72 hours&#8221;: Estimated battery life based on testing using a median Pixel user battery usage profile across a mix of talk, data, standby, and use of limited other features that are default in Extreme Battery Saver mode (which disables various features including 5G connectivity)."
+        },
+        {
+          "feature": "Battery testing conducted on a major carrier network. For both claims: Battery testing conducted in California in mid 2022 on pre-production hardware and software using default settings, except that, for the &#8220;up to 72 hours&#8221; claim only, Extreme Battery Saver mode was enabled."
+        },
+        {
+          "feature": "Battery life depends upon many factors and usage of certain features will decrease battery life. Actual battery life may be lower."
+        },
+        {
+          "feature": "&#8326;Fast wired charging rates (up to 20 watts on Pixel 7 and up to 23 W on Pixel 7 Pro) are based upon use of the Google 30W USB-C&#174; Charger plugged into a wall outlet. Actual results may be slower. Adapters sold separately."
+        },
+        { "feature": "&#8327;Compared to Pixel 6 and Pixel 6 Pro cameras." }
+      ],
+      "condition": "New",
+      "salePrice": 899.99,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "Cell Phones" },
+        { "name": "All Cell Phones with Plans" }
+      ],
+      "freeShipping": true,
+      "manufacturer": "Google",
+      "regularPrice": 899.99,
+      "shippingCost": 0,
+      "dollarSavings": 0,
+      "longDescription": "Introducing Pixel 7 Pro, Google&#8217;s best-of-everything phone. Powered by Google Tensor G2, it&#8217;s fast and secure, with an immersive display and amazing battery life. The best Pixel camera yet includes a telephoto lens and pro-level features like Macro Focus. And with the certified Titan M2 security chip and a built-in VPN, Pixel helps protect your personal data.&#8321;",
+      "includedItemList": [],
+      "shortDescription": null,
+      "customerReviewCount": 14,
+      "customerReviewAverage": 4.6,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    },
+    {
+      "rank": 6,
+      "sku": 6479707,
+      "name": "Amazon - 50\" Class 4-Series 4K UHD Smart Fire TV",
+      "color": "Black",
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6479/6479707_sd.jpg",
+      "features": [
+        {
+          "feature": "Brilliant 4K entertainment\nBring movies and shows to life with support for vivid 4K Ultra HD, HDR 10, HLG, and Dolby Digital Plus."
+        },
+        {
+          "feature": "Scenes that leap off the screen\n4K Ultra HD, HDR 10, and HLG deliver a clearer and more vibrant picture with brighter colors compared to 1080p Full HD."
+        },
+        {
+          "feature": "Fire TV Alexa Voice Remote\nPress and ask to find favorite apps, movies, and shows, plus check the weather, sports scores, and more."
+        },
+        {
+          "feature": "Watch what you want\nStream over 1 million movies and TV episodes. Watch favorites with subscriptions to Netflix, Prime Video, Disney+, and more."
+        },
+        {
+          "feature": "One stop entertainment\nWatch live and free TV, play video games, and stream music."
+        },
+        {
+          "feature": "SmartTV\nFire TV adds new Alexa skills, features, smart home capabilities, and voice functionality all the time."
+        },
+        {
+          "feature": "Connect all your devices\nUse the 3 HDMI inputs to connect to cable or satellite and video game consoles. The HDMI eARC lets you add audio equipment for enhanced sound."
+        }
+      ],
+      "condition": "New",
+      "salePrice": 289.99,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "TV & Home Theater" },
+        { "name": "TVs" },
+        { "name": "All Flat-Screen TVs" }
+      ],
+      "freeShipping": false,
+      "manufacturer": "Amazon",
+      "regularPrice": 449.99,
+      "shippingCost": "",
+      "dollarSavings": 160,
+      "longDescription": "We&#8217;ve built a TV for TV lovers. Amazon Fire TV 4-Series brings 4K Ultra HD entertainment, vivid picture quality, access to more than 1 million movies and TV episodes, and the magic of Alexa to your living room. Just press and ask Alexa to watch what you want, when you want. B08SVZ775L",
+      "includedItemList": [],
+      "shortDescription": null,
+      "customerReviewCount": 353,
+      "customerReviewAverage": 4.6,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    },
+    {
+      "rank": 7,
+      "sku": 6507836,
+      "name": "Acer - Chromebook Spin 714 Laptop - 14.0\" 2-in-1 Touchscreen - Intel Evo Core i5 – 8GB – 256GB SSD - Slate Blue",
+      "color": "Slate Blue",
+      "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6507/6507836_sd.jpg",
+      "features": [
+        {
+          "feature": "The Power to Perform\nDon&#8217;t sacrifice performance, graphics or battery life to get a thin and light laptop. Enjoy superior performance with the Acer Chromebook 714, based on the Evo platform, it charges fast, lasts and wakes instantly and is super thin and light."
+        },
+        {
+          "feature": "Vivid Visuals\nThe 16:10 14-inch WUXGA (1920 X 1200) IPS narrow-bezel display with 100% sRGB coverage gives you vibrant, highly-accurate colors and a 16:10 aspect ratio to boost productivity with more vertical screen real-estate."
+        },
+        {
+          "feature": "Optimized for Video Conferencing\nFeaturing an FHD MIPI webcam with temporal noise reduction technology, dual upward speakers, and a dual-microphone array, you'll enjoy clearer audio and high-quality video &#8211; even in dim lighting. Also, includes an integrated webcam cover that covers the lens."
+        },
+        {
+          "feature": "Quick-Charging Stylus\nThe USI stylus features 4,096 different levels of pressure sensitivity to give you a natural feel for precise strokes and movements. When docked, the stylus charges quickly - with 15 minutes giving you 4 hours of use."
+        },
+        {
+          "feature": "Conveniently Convertible\nUtilize your Chromebook in ways you've never thought of before. Its 360-degree convertible modes gives you the flexibility to easily switch from tablet, laptop, tent, and every angle in-between at a moment's notice."
+        },
+        {
+          "feature": "Fully Connected\nBoost your productivity with features such as Wi-Fi 6E, Bluetooth 5.2, Corning&#174; Gorilla&#174; Glass touchscreen and touchpad, a backlit keyboard, a built-in HDMI port, dual USB Type-C ports, and the latest Thunderbolt&#8482; 4."
+        },
+        {
+          "feature": "Distortion-Free Sound\nDTS&#174; Audio and the built-in Smart Amplifier provide higher-quality, distortion-free sound and deeper bass while also protecting speakers from damage as you pump up the volume to up to 256% higher than standard laptops."
+        },
+        {
+          "feature": "Acer Antimicrobial Design\nThis Chromebook comes equipped with Antimicrobial Corning&#174; Gorilla&#174; Glass on the surface of the touch screen. The antimicrobial properties help protect touch surfaces from stains and odor-causing bacteria."
+        },
+        {
+          "feature": "Best in Class Chromebook for Multitasking\nFast multitasking with multiple apps and browser tabs open at the same time, Smooth video calls and fast web browsing, Fast media editing and game launch times, Large storage for apps, photos and movies."
+        }
+      ],
+      "condition": "New",
+      "salePrice": 510.99,
+      "description": null,
+      "categoryPath": [
+        { "name": "Best Buy" },
+        { "name": "Computers & Tablets" },
+        { "name": "Laptops" },
+        { "name": "All Laptops" },
+        { "name": "Chromebooks" }
+      ],
+      "freeShipping": false,
+      "manufacturer": "Acer",
+      "regularPrice": 729,
+      "shippingCost": "",
+      "dollarSavings": 218.01,
+      "longDescription": "Powered by an Intel&#174; Evo&#8482; design, the 2-in-1 high-performance Acer Chromebook Spin 714 empowers users to stay productive anywhere with its 14&#8221; WUXGA IPS CineCrystal&#8482; touch display, 12th Gen Intel&#174; Core&#8482; i5 processor and military-grade durability. At just over 3 lbs., this sleek machine is not only faster and more efficient than ever, but features a bevy of functional features and a quick-chargeable 10-hour battery2 that gives you up to a four hour charge in under 30 minutes. The 360&#176; durable hinge provides four different modes for you to enjoy.",
+      "includedItemList": [],
+      "shortDescription": null,
+      "customerReviewCount": 202,
+      "customerReviewAverage": 4.2,
+      "onlineAvailabilityText": null,
+      "frequentlyPurchasedWith": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "sorting": [
+        { "Price": "salePrice" },
+        { "Manufacturer": "manufacturer" },
+        { "Name": "name" },
+        { "Savings": "dollarSavings" },
+        { "Reviews": "customerReviewAverage" }
+      ]
+}

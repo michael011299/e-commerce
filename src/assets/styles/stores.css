@@ -1,0 +1,24 @@
+#storesearch {
+  padding: 2%;
+}
+
+#completeSearch {
+  padding: 2%;
+}
+
+#card {
+  margin: 1%;
+  padding: 1%;
+}
+
+#storecard {
+  padding: 2%;
+  margin: 2%;
+  border-top: 4px pink solid;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#stores {
+  padding: 1%;
+}

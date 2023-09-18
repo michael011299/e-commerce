@@ -1,0 +1,21 @@
+{
+  "topCats": [
+    { "APPLIANCES": "abcat0912000" },
+    { "HEADPHONES": "abcat0204000" },
+    { "SPEAKERS": "pcmcat310200050004" },
+    { "LAPTOPS": "abcat0502000" },
+    { "MOBILES": "pcmcat209400050001" },
+    { "TVs": "abcat0101000" }
+  ],
+  "allCats": [
+    { "APPLIANCES": "abcat0912000" },
+    { "HEADPHONES": "abcat0204000" },
+    { "HOME-AUDIO": "pcmcat241600050001" },
+    { "SPEAKERS": "pcmcat310200050004" },
+    { "LAPTOPS": "abcat0502000" },
+    { "MOBILES": "pcmcat209400050001" },
+    { "TVs": "abcat0101000" },
+    { "PLAYSTATION": "pcmcat295700050012" },
+    { "XBOX": "pcmcat300300050002" }
+  ]
+}

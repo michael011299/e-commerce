@@ -1,0 +1,98 @@
+@media (min-width: 800px) {
+  #basket {
+    padding: 2%;
+    display: grid;
+    grid-template-columns: 80% 20%;
+  }
+  #basketleft {
+    grid-column: 1;
+    max-height: 100vw;
+    overflow-y: scroll;
+  }
+
+  #basketright {
+    grid-column: 2;
+    padding: 4%;
+    background-color: white;
+    height: 70vh;
+  }
+}
+@media (max-width: 799px) {
+  #basket {
+    padding: 2%;
+  }
+  #basketleft {
+    grid-column: 1;
+    max-height: 100vw;
+    overflow-y: scroll;
+  }
+
+  #basketright {
+    grid-column: 2;
+    padding: 4%;
+    background-color: white;
+    height: 100%;
+  }
+}
+
+#basketcard {
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+  margin: 2%;
+  padding: 2%;
+  height: auto;
+}
+
+#left {
+  grid-column: 1;
+  padding: 2%;
+  margin: 2%;
+}
+
+#center {
+  grid-column: 2;
+  padding: 2%;
+  margin: 2%;
+  height: 150px;
+  max-width: 100%;
+}
+
+#right {
+  grid-column: 3;
+  padding: 2%;
+  border-left: 2px solid black;
+}
+
+@media (max-width: 1000px) {
+  #basket {
+    padding: 4%;
+  }
+  #basketcard {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    margin: 2%;
+    padding: 2%;
+    height: auto;
+  }
+
+  #left {
+    grid-column: 1;
+    grid-row: 1;
+    padding: 2%;
+    margin: 2%;
+  }
+
+  #center {
+    grid-column: 1;
+    grid-row: 2;
+    padding: 2%;
+    margin: 2%;
+    height: auto;
+    width: 100%;
+  }
+
+  #right {
+    grid-column: 2;
+    padding: 2%;
+  }
+}

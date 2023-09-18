@@ -1,0 +1,30 @@
+#nav{
+  background-color: #e9b1cf;
+  color: black;
+}
+
+
+@media(min-width: 1200px) {
+#details{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin-left: 300px;
+  max-width: 100vw;
+}
+}
+
+@media(max-width: 1200px) {
+  #details{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    /* margin-left: 200px; */
+  }
+  }
+
+  @media(max-width: 1200px) {
+    #details{
+      display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    max-width: 100vw;
+    }
+  }
